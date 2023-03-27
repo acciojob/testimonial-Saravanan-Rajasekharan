@@ -16,6 +16,8 @@ div{
 	margin:10px;
 	border:0.5px solid lightgray;
 }
-cite{
-	float:right;
+
+.p1{
+	text-align:right;
+	font-style:italic;
 }
